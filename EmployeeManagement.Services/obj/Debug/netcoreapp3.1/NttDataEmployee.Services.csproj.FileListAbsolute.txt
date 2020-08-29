@@ -1,0 +1,28 @@
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Services.deps.json
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Services.dll
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Services.pdb
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.BusinessModel.dll
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Entities.dll
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.BusinessModel.pdb
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Entities.pdb
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.csprojAssemblyReference.cache
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.AssemblyInfoInputs.cache
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.AssemblyInfo.cs
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.csproj.CopyComplete
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.dll
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.pdb
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Services.deps.json
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Services.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Services.pdb
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.BusinessModel.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Entities.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.BusinessModel.pdb
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\bin\Debug\netcoreapp3.1\NttDataEmployee.Entities.pdb
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.csprojAssemblyReference.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.AssemblyInfoInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.AssemblyInfo.cs
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.csproj.CopyComplete
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Services\obj\Debug\netcoreapp3.1\NttDataEmployee.Services.pdb

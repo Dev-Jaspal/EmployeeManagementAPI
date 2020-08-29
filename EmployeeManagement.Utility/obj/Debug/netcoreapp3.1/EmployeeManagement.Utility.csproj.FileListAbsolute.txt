@@ -1,0 +1,9 @@
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Utility\bin\Debug\netcoreapp3.1\EmployeeManagement.Utility.deps.json
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Utility\bin\Debug\netcoreapp3.1\EmployeeManagement.Utility.dll
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Utility\bin\Debug\netcoreapp3.1\EmployeeManagement.Utility.pdb
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Utility\obj\Debug\netcoreapp3.1\EmployeeManagement.Utility.AssemblyInfoInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Utility\obj\Debug\netcoreapp3.1\EmployeeManagement.Utility.AssemblyInfo.cs
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Utility\obj\Debug\netcoreapp3.1\EmployeeManagement.Utility.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Utility\obj\Debug\netcoreapp3.1\EmployeeManagement.Utility.dll
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Utility\obj\Debug\netcoreapp3.1\EmployeeManagement.Utility.pdb
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Utility\obj\Debug\netcoreapp3.1\EmployeeManagement.Utility.csprojAssemblyReference.cache

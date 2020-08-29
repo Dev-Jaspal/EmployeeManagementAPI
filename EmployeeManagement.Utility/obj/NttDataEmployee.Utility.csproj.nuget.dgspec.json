@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dot Net Core Work\\Visual Studio Projects\\NttDataEmployee\\NttDataEmployee.Utility\\NttDataEmployee.Utility.csproj": {}
+  },
+  "projects": {
+    "D:\\Dot Net Core Work\\Visual Studio Projects\\NttDataEmployee\\NttDataEmployee.Utility\\NttDataEmployee.Utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dot Net Core Work\\Visual Studio Projects\\NttDataEmployee\\NttDataEmployee.Utility\\NttDataEmployee.Utility.csproj",
+        "projectName": "NttDataEmployee.Utility",
+        "projectPath": "D:\\Dot Net Core Work\\Visual Studio Projects\\NttDataEmployee\\NttDataEmployee.Utility\\NttDataEmployee.Utility.csproj",
+        "packagesPath": "C:\\Users\\jaspa\\.nuget\\packages\\",
+        "outputPath": "D:\\Dot Net Core Work\\Visual Studio Projects\\NttDataEmployee\\NttDataEmployee.Utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jaspa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\Dot Net Core Work\\Office\\localnugets": {},
+          "D:\\Dot Net Core Work\\Office\\localnugets\\packages": {},
+          "D:\\Dot Net Core Work\\Office\\passwebclients": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.WebUtilities": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

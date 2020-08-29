@@ -1,0 +1,12 @@
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\bin\Release\netcoreapp3.1\NttDataEmployee.Entities.deps.json
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\bin\Release\netcoreapp3.1\NttDataEmployee.Entities.runtimeconfig.json
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\bin\Release\netcoreapp3.1\NttDataEmployee.Entities.runtimeconfig.dev.json
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\bin\Release\netcoreapp3.1\NttDataEmployee.Entities.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\bin\Release\netcoreapp3.1\NttDataEmployee.Entities.pdb
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\obj\Release\netcoreapp3.1\NttDataEmployee.Entities.csprojAssemblyReference.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\obj\Release\netcoreapp3.1\NttDataEmployee.Entities.AssemblyInfoInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\obj\Release\netcoreapp3.1\NttDataEmployee.Entities.AssemblyInfo.cs
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\obj\Release\netcoreapp3.1\NttDataEmployee.Entities.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\obj\Release\netcoreapp3.1\NttDataEmployee.Entities.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\obj\Release\netcoreapp3.1\NttDataEmployee.Entities.pdb
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Entities\obj\Release\netcoreapp3.1\NttDataEmployee.Entities.genruntimeconfig.cache

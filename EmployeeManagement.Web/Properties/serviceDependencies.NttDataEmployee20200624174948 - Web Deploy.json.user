@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-06-24T12:24:48.1110137Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "TestAzureHosting"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "77da469c-e505-4085-852e-48a4ac23626d"
+    }
+  }
+}

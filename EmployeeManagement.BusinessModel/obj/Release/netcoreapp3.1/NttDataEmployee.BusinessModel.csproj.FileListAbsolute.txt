@@ -1,0 +1,12 @@
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\bin\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.deps.json
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\bin\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\bin\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.pdb
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\bin\Release\netcoreapp3.1\NttDataEmployee.Entities.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\bin\Release\netcoreapp3.1\NttDataEmployee.Entities.pdb
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\obj\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.csprojAssemblyReference.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\obj\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.AssemblyInfoInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\obj\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.AssemblyInfo.cs
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\obj\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\obj\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.csproj.CopyComplete
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\obj\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.BusinessModel\obj\Release\netcoreapp3.1\NttDataEmployee.BusinessModel.pdb

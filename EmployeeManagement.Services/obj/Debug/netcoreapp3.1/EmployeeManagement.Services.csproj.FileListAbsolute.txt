@@ -1,0 +1,14 @@
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\obj\Debug\netcoreapp3.1\EmployeeManagement.Services.csprojAssemblyReference.cache
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\obj\Debug\netcoreapp3.1\EmployeeManagement.Services.AssemblyInfoInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\obj\Debug\netcoreapp3.1\EmployeeManagement.Services.AssemblyInfo.cs
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\obj\Debug\netcoreapp3.1\EmployeeManagement.Services.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\bin\Debug\netcoreapp3.1\EmployeeManagement.Services.deps.json
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\bin\Debug\netcoreapp3.1\EmployeeManagement.Services.dll
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\bin\Debug\netcoreapp3.1\EmployeeManagement.Services.pdb
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\bin\Debug\netcoreapp3.1\EmployeeManagement.BusinessModel.dll
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\bin\Debug\netcoreapp3.1\EmployeeManagement.Entities.dll
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\bin\Debug\netcoreapp3.1\EmployeeManagement.BusinessModel.pdb
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\bin\Debug\netcoreapp3.1\EmployeeManagement.Entities.pdb
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\obj\Debug\netcoreapp3.1\EmployeeManagement.Services.csproj.CopyComplete
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\obj\Debug\netcoreapp3.1\EmployeeManagement.Services.dll
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Services\obj\Debug\netcoreapp3.1\EmployeeManagement.Services.pdb

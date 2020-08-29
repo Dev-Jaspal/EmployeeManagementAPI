@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yRKNaN9SRdpDpiWCtjFRKNScXAd7Xkkoqwu42VKSz4wkdSwNSdFU/ghmt4FzA7bosevgk9hpe3NeqWza9UsVqg==",
+  "success": true,
+  "projectFilePath": "D:\\Dot Net Core Work\\Visual Studio Projects\\EmployeeManagement\\EmployeeManagement.Utility\\EmployeeManagement.Utility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaspa\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
+    "C:\\Users\\jaspa\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\jaspa\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\jaspa\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\jaspa\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\jaspa\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\jaspa\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

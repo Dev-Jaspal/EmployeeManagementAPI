@@ -1,0 +1,18 @@
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Utility\bin\Debug\netcoreapp3.1\NttDataEmployee.Utility.deps.json
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Utility\bin\Debug\netcoreapp3.1\NttDataEmployee.Utility.dll
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Utility\bin\Debug\netcoreapp3.1\NttDataEmployee.Utility.pdb
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.csprojAssemblyReference.cache
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.AssemblyInfoInputs.cache
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.AssemblyInfo.cs
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.dll
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.pdb
+C:\Users\jaspa\source\repos\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Utility\bin\Debug\netcoreapp3.1\NttDataEmployee.Utility.deps.json
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Utility\bin\Debug\netcoreapp3.1\NttDataEmployee.Utility.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Utility\bin\Debug\netcoreapp3.1\NttDataEmployee.Utility.pdb
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.AssemblyInfoInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.AssemblyInfo.cs
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.dll
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.pdb
+D:\Dot Net Core Work\Visual Studio Projects\NttDataEmployee\NttDataEmployee.Utility\obj\Debug\netcoreapp3.1\NttDataEmployee.Utility.csprojAssemblyReference.cache

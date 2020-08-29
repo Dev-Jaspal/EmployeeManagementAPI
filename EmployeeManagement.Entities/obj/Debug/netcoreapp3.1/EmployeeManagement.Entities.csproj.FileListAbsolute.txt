@@ -1,0 +1,12 @@
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\netcoreapp3.1\EmployeeManagement.Entities.deps.json
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\netcoreapp3.1\EmployeeManagement.Entities.runtimeconfig.json
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\netcoreapp3.1\EmployeeManagement.Entities.runtimeconfig.dev.json
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\netcoreapp3.1\EmployeeManagement.Entities.dll
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\bin\Debug\netcoreapp3.1\EmployeeManagement.Entities.pdb
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\netcoreapp3.1\EmployeeManagement.Entities.AssemblyInfoInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\netcoreapp3.1\EmployeeManagement.Entities.AssemblyInfo.cs
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\netcoreapp3.1\EmployeeManagement.Entities.csproj.CoreCompileInputs.cache
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\netcoreapp3.1\EmployeeManagement.Entities.dll
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\netcoreapp3.1\EmployeeManagement.Entities.pdb
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\netcoreapp3.1\EmployeeManagement.Entities.genruntimeconfig.cache
+D:\Dot Net Core Work\Visual Studio Projects\EmployeeManagement\EmployeeManagement.Entities\obj\Debug\netcoreapp3.1\EmployeeManagement.Entities.csprojAssemblyReference.cache
